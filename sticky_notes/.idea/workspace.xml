@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8f98520-bed9-4079-ba5b-76bc728acb7c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../docker_project/models/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docker_project/models/users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docker_project/routes/user_routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docker_project/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docker_project/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docker_project/templates/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/PythonIntroTeaching.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/csv-editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/args_kwargs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/iter/Counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/iter/generator_intro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced/iter/iter_intro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/advanced_classes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/advanced_classes_solutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/bank_account.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/data_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/final_exercise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/shapes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/shapes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/export (1).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/interest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/news_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises_15_9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/terror_pipeline/analysis/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/terror_pipeline/analysis/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/terror_pipeline/analysis/communication.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/terror_pipeline/analysis/intelligence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/terror_pipeline/analysis/operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/terror_pipeline/data/field_operations.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/terror_pipeline/data/intelligence_reports.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/terror_pipeline/data/intercepted_communications.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/terror_pipeline/data_processing/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/terror_pipeline/data_processing/data_processing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/terror_pipeline/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/terror_pipeline/tools/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/terror_pipeline/tools/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final_intro_exercise/week1_summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_intro/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_intro/test_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_intro/users/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_intro/users/routes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_testing/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_testing/test_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/collections_solutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/dates_and_times.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/day1_end.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/days.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/dictionaries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/dictionaries_solutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/exceptions_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/files_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/files_solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/filter_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/filter_solutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/formatting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/group_by_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/group_by_solutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/intro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/intro2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/main2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/map_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/map_solutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/modules_intro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/recap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/recap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/reduce_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/reduce_solutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/requests_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/rock_papar_scissors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/the_snake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/tomorrow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/utils/math_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/utils/shubu_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/utils/str_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/venv_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/zip_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intro/zip_solutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgres_proj/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgres_proj/bp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgres_proj/bp/worker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgres_proj/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgres_proj/ex.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgres_proj/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgres_proj/original.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgres_proj/prepare_test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgres_proj/services/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgres_proj/services/logger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgres_proj/services/normal_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgres_proj/services/worker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_ex/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_ex/blueprints/todos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_ex/brief.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_ex/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_ex/models/todo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_ex/services/todo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/10_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/11_list_comp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/12_enumerate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/13_sorted.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/14_zip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/15_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/16_reduce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/17_filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/18_map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/19_groupby.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/1_basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/20_lambdas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/21_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/22_classes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/23_more_classes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/24_more_more_classes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/25_magic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/26_exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/27_iter_next.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/28_generators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/29_flask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/2_conditions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/30_flask_iter_gene.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/31_flask_db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/32_flask_db_relations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/33_decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/34_decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/3_match_case_nested_conds.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/4_datetime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/5_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/6_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/7_more_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/8_tuples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/9_sets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/files/sample.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/excercises/files/stam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/fp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/10_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/11_list_comp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/12_enumerate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/13_sorted.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/14_zip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/15_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/16_reduce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/17_filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/18_map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/19_groupby.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/1_basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/20_lambdas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/21_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/22_classes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/23_more_classes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/24_more_more_classes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/25_magic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/26_exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/27_iter_next.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/28_generators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/29_flask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/2_conditions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/30_flask_iter_gene.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/31_flask_db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/32_flask_db_relations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/33_decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/34_decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/3_match_case_nested_conds.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/4_datetime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/5_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/6_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/7_more_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/8_tuples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_intro_and_advanced_summary/solutions/9_sets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp1/temp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/test_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/test_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/test_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/test_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/test_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/test_sample.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2n6Q8uAzMoLbRGHa2djtzhi3XYC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8f98520-bed9-4079-ba5b-76bc728acb7c" name="Changes" comment="" />
+      <created>1728290889828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728290889828</updated>
+      <workItem from="1728290891843" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

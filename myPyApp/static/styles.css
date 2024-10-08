@@ -1,0 +1,15 @@
+body {
+    direction: rtl;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse; /* לאיחוד גבולות של תאים */
+}
+th, td {
+    border: 1px solid #dddddd; /* גבול לתאים */
+    padding: 8px; /* רווח פנימי בתאים */
+}
+th {
+    background-color: #f2f2f2; /* צבע רקע לכותרות */
+}
